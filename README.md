@@ -1,2 +1,2 @@
 # timer
-Création timer
+Création d´un timer ios 
